@@ -4,7 +4,7 @@ const isDev		= process.env.NODE_ENV === 'dev'
 
 module.exports = {
 	entry: {
-		'main': './src/js/main.tsx'
+		'main': './src/ts/main.tsx'
 	},
 	output: {
 		filename: '[name].js',

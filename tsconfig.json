@@ -13,10 +13,11 @@
 			"es2015",
 			"es2015.promise",
 			"es5"
-		]
+		],
+		"outDir": "./src/js"
 	},
 	"include": [
-		"./src/**/*"
+		"./src/ts/*"
 	],
 	"compileOnSave": false
 }
