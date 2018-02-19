@@ -1,8 +1,14 @@
+Forked from [https://github.com/baku89/ui-study](https://github.com/baku89/ui-study)
+
+**[Demo](http://kevindoughty.github.io/ui-study)**
+
+The purpose of this fork was to change knob dragging behavior. Instead of jumping to mouse click location, the knob value changes relative to dragging. I had to remove the arrows/zingers and feel that this was mostly a failure. This behavior would be more desirable if the knob had a larger diameter.
+
+I like knob UI elements because one can get much higher precision than with a linear slider. With a small radius precision is poor, but if you drag perpendicular to the tanget (so the angle doesn’t change) very far from the knob, the precision improves dramatically and is only limited by the screen size.
+
+You can see the original verison with what I feel is less than desirable jump-to-click-location behavior but beautiful zingers and ulitmately a better experience [here](http://s.baku89.com/ui/).
+
 # UI Study
-
-![](./doc/thumbnail.gif)
-
-**[Demo](http://s.baku89.com/ui)**
 
 Study of patameter controls UI for creative-purpose softwares. (Such as AfterEffects, Cinema4D)
 
