@@ -1,6 +1,6 @@
 Forked from [https://github.com/baku89/ui-study](https://github.com/baku89/ui-study)
 
-**[Demo](http://kevindoughty.github.io/ui-study)**
+**[Demo](http://kevindoughty.github.io/ui-study/index.html)**
 
 The purpose of this fork was to change knob dragging behavior. Instead of jumping to mouse click location, the knob value changes relative to dragging. I had to remove the arrows/zingers and feel that this was mostly a failure. This behavior would be more desirable if the knob had a larger diameter.
 
